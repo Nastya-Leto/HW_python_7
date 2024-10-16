@@ -1,5 +1,5 @@
 """
-Протестируйте классы из модуля homework/models.py
+Протестируйте классы из модуля homework/models
 """
 
 import pytest
